@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "47cd",
+      "username": "mahesh",
+      "email": "hi@gmail.com",
+      "passward": "12345",
+      "usertype": "enduser"
+    },
+    {
+      "id": "zxzxas",
+      "username": "support",
+      "email": "hi@gmail.com",
+      "passward": "suport",
+      "usertype": "suportuser"
+    },
+    {
+      "id": "zxzxas",
+      "username": "admin",
+      "email": "hi@gmail.com",
+      "passward": "admin",
+      "usertype": "adminuser"
+    },
+    {
+      "id": "a671",
+      "username": "shree",
+      "email": "s@gmail.com",
+      "passward": "shree",
+      "usertype": "enduser"
+    },
+    {
+      "id": "b9c9",
+      "username": "shriyan",
+      "email": "shriyan@gmail.com",
+      "passward": "12345",
+      "usertype": "enduser"
+    }
+  ],
+  "queries": [
+    {
+      "id": "6a3d",
+      "query": "how to create react app",
+      "replies": [
+        "any updates",
+        "working on it it will take time"
+      ],
+      "user": "mahesh",
+      "support": true
+    },
+    {
+      "id": "4dc8",
+      "query": "which framewor is best for javscript",
+      "replies": [
+        "asd"
+      ],
+      "user": "shriyan",
+      "support": true
+    }
+  ]
+}
